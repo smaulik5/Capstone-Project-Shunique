@@ -1,2 +1,14 @@
 # Capstone-Project-Shunique
-Used pandas to review and analyze large data set and draw key conclusions. Used Tableau and pandas to create various visualizations to form data insights.
+This project was completed as part of my Georgetown Data Analytics Certificate program.
+
+Objective:
+Analyze the sales dataset of a fictional footwear manufacturing company to identify key business findings and help determine future sales and trends
+
+Tools: 
+Python, pandas, matplotlib, scipy, Tableau (screenshots of Tableau visualizations have been included as part of the Jupyter notebook.
+
+Files:
+-Shunique_Business_Case.ipynb (full code and results)
+
+Note:
+The full transactions.csv dataset has been omitted from the repository due to file size constraints. All cells in the notebook have been executed.
